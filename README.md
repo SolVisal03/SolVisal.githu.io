@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>College CoSt</title>
-</head>
 <body style="background-color:lightgray">
 <h2 style="background-color:dodgerblue; color:white; border:2px solid violet; font-family:Cooper Black; font-size:200%; text-align:center"> College Science and Technology</h2>
 <a href="https://www.w3schools.com/">Visit Science and technology</a><br>
